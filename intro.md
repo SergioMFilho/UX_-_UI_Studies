@@ -25,3 +25,8 @@
 ## Sound Design
 - Sound effects
 - Audio-visual
+
+## Entregáveis
+- Wireframe
+- Prototype
+- Sitemap
